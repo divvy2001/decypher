@@ -1,0 +1,100 @@
+body{
+    background-image: url("back.jpg");
+}
+
+.btn1{
+    margin-left: 70px;
+    width: 300px;
+    height: 400px;
+    margin-top: 90px;
+    background-image: url(test.png);
+    background-size: cover;
+    border-radius: 25px;
+    background-repeat: no-repeat;
+    display: flexbox;
+    border-style: none;
+}
+
+
+.btn1:hover{
+    width: 310px;
+    height: 410spx;
+    box-shadow: 5px 10px #323232;
+    opacity: 0.85;  
+}
+
+.btn2{
+    margin-left: 70px;
+    width: 300px;
+    height: 400px;
+    margin-top: 90px;
+    background-image: url(practice.jpg);
+    border-radius: 25px;
+    background-repeat: no-repeat;
+    display: flexbox;
+    border-style: none;
+}
+
+
+.btn2:hover{
+    width: 310px;
+    height: 410spx;
+    box-shadow: 5px 10px #323232;
+    opacity: 0.85;  
+}
+
+.btn3{
+    margin-left: 70px;
+    width: 300px;
+    height: 400px;
+    margin-top: 90px;
+    background-image: url(assign.jpg);
+    border-radius: 25px;
+    color: black;
+    background-repeat: no-repeat;
+    border-style: none;
+}
+
+
+.btn3:hover{
+    width: 310px;
+    height: 410spx;
+    box-shadow: 5px 10px #323232;
+    opacity: 0.85;  
+}
+
+.btn4{
+    margin-left: 70px;
+    width: 300px;
+    height: 400px;
+    margin-top: 90px;
+    background-image: url(notes.jpg);
+    border-radius: 25px;
+    object-fit: cover;
+    border-style: none;
+}
+
+
+.btn4:hover{
+    width: 310px;
+    height: 410spx;
+    box-shadow: 5px 10px #323232;
+    opacity: 0.85;  
+}
+
+.top{
+margin-left: 400px;
+margin-top: 90px;
+}
+
+.navbar{
+    background-color: seashell;
+    width: 80%;
+    left: 10%;
+    border-radius: 5px;
+}
+
+.dp{
+    width: 40px;
+    border-radius: 25px;
+}
